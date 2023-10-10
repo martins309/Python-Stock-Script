@@ -14,3 +14,6 @@
 # print(4 * "test")
 
 name = input("what is your name?")
+age = input("how old are you?")
+old = 100-age
+print("Hello", name, "you are currently", age,  "years old and in: ", old, "years you will be 100")
